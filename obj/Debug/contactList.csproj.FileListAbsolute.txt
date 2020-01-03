@@ -1,0 +1,7 @@
+C:\Users\peter.bozov\source\repos\contacts\contactList\bin\Debug\contactList.exe.config
+C:\Users\peter.bozov\source\repos\contacts\contactList\bin\Debug\contactList.exe
+C:\Users\peter.bozov\source\repos\contacts\contactList\bin\Debug\contactList.pdb
+C:\Users\peter.bozov\source\repos\contacts\contactList\obj\Debug\contactList.csprojAssemblyReference.cache
+C:\Users\peter.bozov\source\repos\contacts\contactList\obj\Debug\contactList.csproj.CoreCompileInputs.cache
+C:\Users\peter.bozov\source\repos\contacts\contactList\obj\Debug\contactList.exe
+C:\Users\peter.bozov\source\repos\contacts\contactList\obj\Debug\contactList.pdb
